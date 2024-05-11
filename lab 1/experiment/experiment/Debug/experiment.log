@@ -1,0 +1,7 @@
+﻿  experiment.cpp
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\experiment\experiment\experiment.cpp(62,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\experiment\experiment\experiment.cpp(45,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\experiment\experiment\experiment.cpp(44): message : while compiling class template member function 'void AutoGrowingArray<int>::CreateRandomfile(std::string,int,int)'
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\experiment\experiment\experiment.cpp(98): message : see reference to function template instantiation 'void AutoGrowingArray<int>::CreateRandomfile(std::string,int,int)' being compiled
+C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\experiment\experiment\experiment.cpp(85): message : see reference to class template instantiation 'AutoGrowingArray<int>' being compiled
+  experiment.vcxproj -> C:\Users\AL-FATAH LAPTOP\OneDrive\Desktop\experiment\Debug\experiment.exe

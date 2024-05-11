@@ -1,0 +1,18 @@
+<----exception handling in c++---->
+
+the standard library for the  exception hasndling iis in the following :
+#include<stdexcept>
+1. throw out_of_range(" ")
+2. throw exception (" ")
+3. throw runtime_error(" ")
+
+<----Queue using stack---->
+Approach 1:
+Dequeue operation is costly and enQueue operation is not costly!
+Approach 2: 
+using a in built stack and a user defined stack
+
+
+swap(q1, q2);
+
+this code is used   dor swaping the  two queues
